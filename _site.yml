@@ -1,0 +1,19 @@
+name: "website"
+title: "Santosh KC"
+description: |
+  My R ponderings
+output_dir: "_site"
+navbar:
+  right:
+    - text: "About"
+      href: index.html
+    - text: "blog"
+      href: blog.html
+    - icon: "fa fa-facebook"
+      href: https://facebook.com  
+    - icon: "fa fa-linkedin"
+      href: https://linkedIn.com  
+    - icon: "fa fa-twitter"
+      href: https://twitter.com 
+      
+output: distill::distill_article

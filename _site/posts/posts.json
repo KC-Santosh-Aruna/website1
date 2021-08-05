@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-08-05-buildingdistill/",
+    "title": "Building a {distill} website",
+    "description": "How I built this site using {distill}",
+    "author": [
+      {
+        "name": "Santosh",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-05",
+    "categories": [],
+    "contents": "\nHere is where I will talk about building this website.\n\n\n\n",
+    "preview": "posts/2021-08-05-buildingdistill/Email.png",
+    "last_modified": "2021-08-05T14:21:00+05:45",
+    "input_file": {}
+  }
+]
